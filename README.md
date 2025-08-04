@@ -34,3 +34,15 @@ The application orchestrates a conversation between two specialized AI agents to
     -   It verifies that the code ran correctly and explains the output.
     -   As a final step, it generates a new script to save the verified solution into a `solution.py` file and instructs the Code Executor to run it.
 5.  **Streaming to UI:** The entire conversation is streamed to the user's web browser in real-time, showing the step-by-step process.
+## Screenshots
+
+Here are a few screenshots showcasing the AlgoSolver application in action.
+<img width="1919" height="1031" alt="Screenshot 2025-08-05 010443" src="https://github.com/user-attachments/assets/a76aef69-45ba-46d6-bc6d-29ccd8fdd58c" />
+<img width="1919" height="643" alt="Screenshot 2025-08-05 010510" src="https://github.com/user-attachments/assets/6b658fd4-5650-404e-9ac0-d3f9a3abb4e5" />
+<img width="1919" height="1022" alt="Screenshot 2025-08-05 010526" src="https://github.com/user-attachments/assets/48e83a5e-eddc-4f42-9010-4e65344784a3" />
+<img width="1919" height="928" alt="Screenshot 2025-08-05 010542" src="https://github.com/user-attachments/assets/5d7b34b2-4995-48e2-9000-9248e86a0238" />
+<img width="1919" height="1028" alt="Screenshot 2025-08-05 010553" src="https://github.com/user-attachments/assets/97564a6c-30eb-41fa-bfd1-9c575dedc8a5" />
+
+
+
+
