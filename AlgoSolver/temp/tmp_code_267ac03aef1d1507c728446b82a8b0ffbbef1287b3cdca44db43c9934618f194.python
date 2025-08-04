@@ -1,0 +1,22 @@
+def add_numbers(x, y):
+    """
+    This function adds two numbers.
+
+    Args:
+        x: The first number.
+        y: The second number.
+
+    Returns:
+        The sum of x and y.
+    """
+    return x + y
+
+
+# Sample inputs
+num1 = 10
+num2 = 5
+
+# Function call and print result
+result = add_numbers(num1, num2)
+print(result)  # Output: 15
+
